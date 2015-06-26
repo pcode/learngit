@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 test file1
+=======
+file1
+>>>>>>> Stashed changes
